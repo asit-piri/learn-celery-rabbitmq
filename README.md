@@ -11,6 +11,7 @@ application will work out of the box. If you are learning how these all work
 together, it is the **easiest way to get started** without feeling overwhelmed
 by the complexity of installing dependencies. 
 
+
 If you want to use Docker on your own system you can run the following:
 
 ```bash
